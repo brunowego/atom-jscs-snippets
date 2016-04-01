@@ -1,7 +1,7 @@
 {
   "name": "jscs-snippets",
   "main": "./lib/jscs-snippets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A collection of JSCS snippets for Atom Editor.",
   "keywords": [
     "javascript",

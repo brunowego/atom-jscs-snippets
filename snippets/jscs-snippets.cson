@@ -1,0 +1,10 @@
+".source.js":
+  "JSCS: Disable":
+    prefix: "jscs:disable"
+    body: "// jscs:disable $1"
+  "JSCS: Enable":
+    prefix: "jscs:enable"
+    body: "// jscs:enable $1"
+  "JSCS: Ignore":
+    prefix: "jscs:ignore"
+    body: "// jscs:ignore $1"
